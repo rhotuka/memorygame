@@ -6,7 +6,7 @@ Submitted by: **Raunak Hota**
 
 Time spent: **1** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://glitch.com/edit/#!/creative-fortunate-tailor
 
 ## Required Functionality
 
